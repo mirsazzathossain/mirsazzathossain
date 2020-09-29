@@ -113,7 +113,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8)](https://github.com/mirsazzathossain/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirsazzathossain)](https://github.com/mirsazzathossain/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirsazzathossain&show_icons=true)](https://github.com/mirsazzathossain/github-readme-stats)
 
 
 [![Sazzat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain)](https://github.com/mirsazzathossain/github-readme-stats)
