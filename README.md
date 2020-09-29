@@ -111,4 +111,7 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Sazzat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain)](https://github.com/anuraghazra/github-readme-stats)
