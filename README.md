@@ -103,6 +103,7 @@
 
 <details>
   <summary>:zap: Wakatime Week Stats</summary>
-  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&show_icons=true&hide_border=true">
+
+  <img align="left" alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
   
 </details>
