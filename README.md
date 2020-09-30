@@ -97,10 +97,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
-  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&layout=compact&show_icons=true&hide_border=true">
-  <img align="left" alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
+  <img alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://codeSTACKr.com
