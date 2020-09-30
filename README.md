@@ -96,7 +96,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&show_icons=true&hide_border=true">
 
 </details>
 
@@ -112,6 +113,8 @@
 
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8)](https://github.com/mirsazzathossain/github-readme-stats)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirsazzathossain&show_icons=true)](https://github.com/mirsazzathossain/github-readme-stats)
 
 [![Sazzat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain)](https://github.com/mirsazzathossain/github-readme-stats)
