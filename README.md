@@ -84,8 +84,6 @@
     <a href="https://aws.amazon.com" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a> 
-
-    <br>
     <a href="https://developer.android.com" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
