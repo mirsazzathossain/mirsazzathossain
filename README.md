@@ -49,9 +49,10 @@
 
 <br />
 <br />
+
 ---
 
-#### This is a paragraph that for some reason we want blue.
+# This is a paragraph that for some reason we want blue.
 <!--START_SECTION:activity-->
 
 ---
