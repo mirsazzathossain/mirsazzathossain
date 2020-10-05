@@ -81,13 +81,13 @@
 ---
 
 <details>
-<!--START_SECTION:activity-->
+  <summary>:zap: Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
 </details>
 
->>>>>>> 9fccb7136497175678999a85c53e1513b362489c
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
   <img alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
 </details>
 
