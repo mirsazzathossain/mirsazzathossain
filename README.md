@@ -57,17 +57,14 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
 <img alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
 
 ---
 
-<summary>:zap: Top Languages</summary>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&layout=compact&show_icons=true&hide_border=true">
 
 ---
 
-<summary>:zap: Wakatime Week Stats</summary>
 <img alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
