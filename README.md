@@ -67,6 +67,11 @@
 
 ---
 
+<summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+
+---
+
 <summary>:zap: Wakatime Week Stats</summary>
 <img alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
 
