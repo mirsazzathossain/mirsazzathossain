@@ -1,7 +1,7 @@
 ### Hi there, I'm Mir Sazzat Hossain 👋
 
-![Website](https://img.shields.io/github/watchers/mirsazzathossain/mirsazzathossain?color=%238395a7&logo=GitHub&style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![GitHub followers](https://img.shields.io/github/followers/mirsazzathossain?color=%238395a7&logo=Github&style=for-the-badge)
+![GitHub Org's stars](https://img.shields.io/github/stars/mirsazzathossain?color=%238395a7&logo=Github&style=for-the-badge)
 
 ## I'm a Student, Designer and Developer!
 
