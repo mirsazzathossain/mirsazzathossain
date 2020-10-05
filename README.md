@@ -85,9 +85,6 @@
     <a href="https://developer.android.com" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
     <a href="https://canvasjs.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
     </a> 
@@ -96,9 +93,6 @@
     </a> 
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
     <a href="https://kotlinlang.org" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -117,6 +111,12 @@
     </a> 
     <a href="https://www.tensorflow.org" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
     <a href="https://code.visualstudio.com" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/>
