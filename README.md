@@ -154,3 +154,27 @@
 ---
 
 <img alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
+
+---
+
+<h3>Open source projects</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/mirsazzathossain/Beholder-GAN.git"><b>Beholder-GAN</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+    </tbody>
+</table>
