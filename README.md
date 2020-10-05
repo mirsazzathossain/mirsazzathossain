@@ -52,7 +52,7 @@
 
 ---
 
-# This is a paragraph that for some reason we want blue.
+##### Recent GitHub Activity
 <!--START_SECTION:activity-->
 
 ---
