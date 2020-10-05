@@ -14,11 +14,8 @@
 - 😄 Pronouns: He/Him
 - 🥅 2020 Goals: Let me think 🤔
 - ⚡ Fun fact: ***
-<br>
 
 ---
-
-<br>
 
 ### Languages and Tools I use:
 
