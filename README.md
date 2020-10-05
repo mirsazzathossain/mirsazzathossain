@@ -66,18 +66,28 @@
     <a href="https://nodejs.org" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
+    <a href="https://expressjs.com" target="_blank"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a> 
     <a href="https://laravel.com/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
     <a href="" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
     </a> 
-    <br>
-    <a href="https://developer.android.com" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a> 
     <a href="https://aws.amazon.com" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+
+    <br>
+    <a href="https://developer.android.com" target="_blank"> 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
     <a href="https://babeljs.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
@@ -94,14 +104,8 @@
     <a href="https://www.chartjs.org" target="_blank"> 
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
     </a> 
-    <a href="https://expressjs.com" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> 
     <a href="https://www.figma.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a> 
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -120,9 +124,6 @@
     </a> 
     <a href="https://www.linux.org/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
     <a href="https://opencv.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
