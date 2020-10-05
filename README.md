@@ -82,7 +82,13 @@
 
 <details>
 <!--START_SECTION:activity-->
+<<<<<<< HEAD
 </details>
+=======
+1. ❗️ Opened issue [#37](https://github.com/jamesgeorge007/github-activity-readme/issues/37) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
+
+>>>>>>> 9fccb7136497175678999a85c53e1513b362489c
 
 <details>
   <summary>:zap: Github Stats</summary>
