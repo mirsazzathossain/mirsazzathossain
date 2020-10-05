@@ -1,6 +1,6 @@
 ### Hi there, I'm Mir Sazzat Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?label=FACEBOOK&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 ![GitHub followers](https://img.shields.io/github/followers/mirsazzathossain?color=%238395a7&logo=Github&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/mirsazzathossain?color=%238395a7&logo=Github&style=for-the-badge)
 
