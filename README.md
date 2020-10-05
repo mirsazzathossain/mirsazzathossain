@@ -1,6 +1,6 @@
 ### Hi there, I'm Mir Sazzat Hossain 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+![Website](https://img.shields.io/github/watchers/mirsazzathossain/mirsazzathossain?color=%238395a7&logo=GitHub&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Designer and Developer!
@@ -13,9 +13,12 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sazzat.mir/)
 - 😄 Pronouns: He/Him
 - 🥅 2020 Goals: Let me think 🤔
-- ⚡ Fun fact: 
+- ⚡ Fun fact: ***
+<br>
 
 ---
+
+<br>
 
 ### Languages and Tools I use:
 
