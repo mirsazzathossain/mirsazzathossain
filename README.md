@@ -80,9 +80,9 @@
 
 ---
 
-
+<details>
 <!--START_SECTION:activity-->
-
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
