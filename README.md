@@ -52,7 +52,8 @@
 
 ---
 
-<span style="color:blue">Recent GitHub Activity</span>
+This is a paragraph that for some reason we want blue.
+{: .blue}
 <!--START_SECTION:activity-->
 
 ---
