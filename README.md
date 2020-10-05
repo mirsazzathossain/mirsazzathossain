@@ -52,7 +52,7 @@
 
 ---
 
-##### <span style="color:blue">Recent GitHub Activity</span>
+<span style="color:blue">Recent GitHub Activity</span>
 <!--START_SECTION:activity-->
 
 ---
