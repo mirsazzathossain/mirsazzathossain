@@ -1,4 +1,4 @@
-### Hi there, I'm Mir Sazzat Hossain 👋
+### Hi there, I'm Mir Sazzat Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![GitHub followers](https://img.shields.io/github/followers/mirsazzathossain?color=%238395a7&logo=Github&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/mirsazzathossain?color=%238395a7&logo=Github&style=for-the-badge)
