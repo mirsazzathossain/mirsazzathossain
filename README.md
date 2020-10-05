@@ -49,15 +49,9 @@
 
 <br />
 <br />
-
-.blue {
-  color: blue;
-}
-
 ---
 
-This is a paragraph that for some reason we want blue.
-{: .blue}
+#### This is a paragraph that for some reason we want blue.
 <!--START_SECTION:activity-->
 
 ---
