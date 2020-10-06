@@ -4,7 +4,7 @@
 
 
 ## I'm a Student, Designer and Developer! 
-<img align="right" height="250" width="450" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
+<img align="right" height="200" width="450" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning everything
