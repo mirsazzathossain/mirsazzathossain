@@ -1,4 +1,4 @@
-### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mir Sazzat Hossain <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mirsazzathossain&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" height="15px">
+### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mir Sazzat Hossain <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px">
 
 <p><a href="https://www.facebook.com/sazzat.mir"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_sejjo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
@@ -16,11 +16,10 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
+### Languages and Tools:
+
+<code><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
+
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
