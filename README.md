@@ -25,8 +25,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
     </a> 
@@ -146,7 +146,7 @@
 ---
 
 <h3>Open source projects</h3>
-<table>
+<table align="center">
     <thead align="center">
         <tr border: none;>
             <td><b>🎁 Projects</b></td>
