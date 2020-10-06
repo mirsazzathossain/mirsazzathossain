@@ -25,6 +25,32 @@
 
 ---
 
+<h3 align="center">Open source projects</h3>
+<table align="center">
+    <thead align="center">
+        <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/mirsazzathossain/Beholder-GAN.git"><b>Beholder-GAN</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/Beholder-GAN?style=flat-square"/></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -142,32 +168,6 @@
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></code> 
     </a> 
 </p>
-
----
-
-<h3 align="center">Open source projects</h3>
-<table align="center">
-    <thead align="center">
-        <tr border: none;>
-            <td><b>🎁 Projects</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>👨‍💻 Language</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/mirsazzathossain/Beholder-GAN.git"><b>Beholder-GAN</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/Beholder-GAN?style=flat-square"/></td>
-        </tr>
-    </tbody>
-</table>
 
 ---
 
