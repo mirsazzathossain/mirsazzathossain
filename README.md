@@ -18,12 +18,10 @@
 
 ---
 
-<br>
-<h3 align="center">My Hithub Trophies</h3>
+<h3 align="center">My GitHub Trophies</h3>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain">
 </p>
-<br>
 
 ---
 
