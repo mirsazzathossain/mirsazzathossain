@@ -2,7 +2,9 @@
 
 <p><a href="https://www.facebook.com/sazzat.mir"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_sejjo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
+
 ## I'm a Student, Designer and Developer! 
+<img align="right" height="200" width="340" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning everything
@@ -13,6 +15,15 @@
 - 😄 Pronouns: He/Him
 - 🥅 2020 Goals: Let me think 🤔
 - ⚡ Fun fact: ***
+
+---
+
+<br>
+<h3 align="center">My Hithub Trophies</h3>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain">
+</p>
+<br>
 
 ---
 
