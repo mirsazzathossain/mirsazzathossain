@@ -4,7 +4,7 @@
 
 
 ## I'm a Student, Designer and Developer! 
-<img align="right" height="220" width="380" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="220" width="380" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning everything
