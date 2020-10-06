@@ -145,6 +145,7 @@
             <td><b>📚 Forks</b></td>
             <td><b>🛎 Issues</b></td>
             <td><b>📬 Pull requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
         </tr>
     </thead>
     <tbody>
@@ -154,6 +155,7 @@
             <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/Beholder-GAN?style=flat-square"/></td>
         </tr>
     </tbody>
 </table>
