@@ -179,12 +179,18 @@
 
 ---
 
-<img align="center" alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
+<p align="center">
+    <img alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
-<img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&layout=compact&show_icons=true&hide_border=true">
+<p align="center">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&layout=compact&show_icons=true&hide_border=true">
+</p>
 
 ---
 
-<img align="center" alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
+<p align="center">
+    <img alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
+</p>
