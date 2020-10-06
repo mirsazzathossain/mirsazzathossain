@@ -6,7 +6,7 @@
 ## I'm a Student, Designer and Developer! 
 <img align="right" height="220" width="450" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
-- 🔭 I’m currently working on everything <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="30px"/>
+- 🔭 I’m currently working on everything <img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="35px"/>
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on REACT
 - 🤔 I’m looking for help with REACT
