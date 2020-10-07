@@ -51,6 +51,7 @@
 
 ---
 
+<img align="right" height="100" width="100" alt="" src="gifs/octocat-anime.gif" />
 <details>
     <summary> :zap: My Recent GitHub Activity: </summary>
 
@@ -60,7 +61,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-<img align="right" height="100" width="100" alt="" src="gifs/octocat-anime.gif" />
+
 <details>
     <summary> :zap: My GitHub Stats: </summary>
     <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
