@@ -53,7 +53,7 @@
 
 <img align="right" height="130" width="130" alt="" src="gifs/octocat-anime.gif" />
 <details>
-    <summary>:zap: My Recent GitHub Activity: </summary>
+    <summary> :zap: My Recent GitHub Activity: </summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
