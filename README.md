@@ -56,6 +56,12 @@
     <summary>:zap: My Recent GitHub Activity: </summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+2. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+3. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+4. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+5. ❗️ Opened issue [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+<!--END_SECTION:activity-->
 
 
 </details>
