@@ -51,7 +51,7 @@
 
 ---
 
-<img align="right" height="100" width="100" alt="" src="gifs/octocat-anime.gif" />
+<img align="right" height="150" width="150" alt="" src="gifs/octocat-anime.gif" />
 <details>
     <summary> :zap: My Recent GitHub Activity: </summary>
 
