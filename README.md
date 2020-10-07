@@ -171,23 +171,27 @@
 
 ---
 
-### Recent GitHub Activity
+<details>
+    <summary> :zap: My Recent GitHub Activity: </summary>
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#37](https://github.com/jamesgeorge007/github-activity-readme/issues/37) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗️ Opened issue [#37](https://github.com/jamesgeorge007/github-activity-readme/issues/37) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
----
-
-<img alt="Sazzat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
-
----
-
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&layout=compact&show_icons=true&hide_border=true">
-
----
+</details>
 
 <details>
-    <summary> :zap: This week i spent my time on: </summary>
+    <summary> :zap: My GitHub Stats: </summary>
+    <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+    <summary> :zap: Top Languages I Use: </summary>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsazzathossain&langs_count=8&layout=compact&show_icons=true&hide_border=true">
+</details>
+
+<details>
+    <summary> :zap: This week I spent my time on: </summary>
     <img alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
 </details>
