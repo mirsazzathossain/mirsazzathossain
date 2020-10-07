@@ -1,6 +1,5 @@
-<img align="right" height="100" width="100" alt="" src="gifs/octocat-anime.gif" />
-
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mir Sazzat Hossain <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px"> <img src="https://gitwar.herokuapp.com/badge?username=mirsazzathossain" height="15px">
+<img align="right" height="100" width="100" alt="" src="gifs/octocat-anime.gif" />
 
 <p><a href="https://www.facebook.com/sazzat.mir"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_sejjo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
