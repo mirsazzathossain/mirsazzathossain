@@ -17,13 +17,11 @@
 - ⚡ Fun fact: ***
 
 ---
-
 <p align="center">
     <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
         <img width="100%" src="https://novatorem-eight-sigma.vercel.app/api/spotify" alt="Sazzat's Spotify" />
     </a>
 </p>
-
 ---
 
 <h3 align="center">My GitHub Trophies</h3>
