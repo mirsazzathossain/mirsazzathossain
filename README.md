@@ -6,11 +6,11 @@
 ## I'm a Student, Designer and Developer! 
 <img align="right" height="225" width="400" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
-- 🔭 I’m currently working on everything
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on whatever you want, I am a tech-enthusiast.
-- 🤔 I’m looking for help with whatever you can I am always ready to accept.
-- 💬 Ask me about, umm.. nothing too much busy can't answer.
+- 🔭 I’m currently working on everything.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate on whatever you got.
+- 🤔 I’m looking for help with whatever you can.
+- 💬 Ask me about, umm.. nothing, can't answer.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sazzat.mir/)
 - 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Let me think 🤔
