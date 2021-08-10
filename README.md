@@ -20,8 +20,8 @@
 
 <h3 align="center">Spotify Playing 🎧</h3>
 <p align="center">
-    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6"> 
-        <img width="100%" target="_blank" src="https://novatorem-eight-sigma.vercel.app/api/spotify" alt="Sazzat's Spotify" />
+    <a target="_blank" href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6"> 
+        <img width="100%" src="https://novatorem-eight-sigma.vercel.app/api/spotify" alt="Sazzat's Spotify" />
     </a>
 </p>
 
