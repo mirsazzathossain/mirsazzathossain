@@ -1,4 +1,5 @@
-### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mir Sazzat Hossain <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px"> <img src="https://gitwar.herokuapp.com/badge?username=mirsazzathossain" height="15px">
+### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Mir Sazzat Hossain <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px"> <img src="https://mirs-github-profile-app.herokuapp.com/badge?username=mirsazzathossain" height="15px">
+![](https://mirs-github-profile-app.herokuapp.com/badge?username=mirsazzathossain)
 
 <p><a href="https://www.facebook.com/sazzat.mir"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_sejjo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
@@ -65,10 +66,10 @@
     <summary> :zap: My Recent GitHub Activity: </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/PizzaRoma-Project/pull/1) in [mirsazzathossain/PizzaRoma-Project](https://github.com/mirsazzathossain/PizzaRoma-Project)
-2. 💪 Opened PR [#1](https://github.com/mirsazzathossain/PizzaRoma-Project/pull/1) in [mirsazzathossain/PizzaRoma-Project](https://github.com/mirsazzathossain/PizzaRoma-Project)
-3. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
-4. 💪 Opened PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
+1. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
+2. 💪 Opened PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
+3. ❗️ Closed issue [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+4. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 5. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 <!--END_SECTION:activity-->
 
