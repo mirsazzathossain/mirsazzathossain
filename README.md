@@ -15,6 +15,7 @@
 - 😄 Pronouns: He/Him
 - 🥅 2020 Goals: Let me think 🤔
 - ⚡ Fun fact: ***
+- [![Spotify](https://novatorem-eight-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6)
 
 ---
 
