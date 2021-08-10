@@ -14,7 +14,7 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sazzat.mir/)
 - 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Let me think 🤔
-- ⚡ Fun fact: You have successfull wasted your valuable time by visiting my profile. 🤣🤣
+- ⚡ Fun fact: You've successfull wasted your time by visiting my profile. 🤣🤣
 
 ---
 
