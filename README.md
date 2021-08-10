@@ -68,7 +68,7 @@
 
 <details>
     <summary> :zap: My GitHub Stats: </summary>
-    <img alt="Sazzat's GitHub Stats" src="https://https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
+    <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
 </details>
 
 <details>
