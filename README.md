@@ -65,10 +65,10 @@
     <summary> :zap: My Recent GitHub Activity: </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
-2. 💪 Opened PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
-3. ❗️ Closed issue [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
-4. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+1. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/PizzaRoma-Project/pull/1) in [mirsazzathossain/PizzaRoma-Project](https://github.com/mirsazzathossain/PizzaRoma-Project)
+2. 💪 Opened PR [#1](https://github.com/mirsazzathossain/PizzaRoma-Project/pull/1) in [mirsazzathossain/PizzaRoma-Project](https://github.com/mirsazzathossain/PizzaRoma-Project)
+3. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
+4. 💪 Opened PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
 5. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 <!--END_SECTION:activity-->
 
