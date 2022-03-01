@@ -6,12 +6,12 @@
 ## I'm a Student, Designer and Developer! 
 <img align="right" height="250" width="400" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
-- 🔭 I’m currently working on everything.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on whatever you got.
+- 🔭 I’m currently working on galaxy classification project.
+- 🌱 I’m currently learning Lie algebra.
+- 👯 I’m looking to collaborate on things I am interested in.
 - 🤔 I’m looking for help with whatever you can.
 - 💬 Ask me about, umm.. nothing, can't answer.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sazzat.mir/)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/mirsazzathossainn/)
 - 😄 Pronouns: He/Him
 - 🥅 2022 Goals: Let me think 🤔
 - ⚡ Fun fact: You've successfull wasted your time by visiting my profile. 🤣🤣
