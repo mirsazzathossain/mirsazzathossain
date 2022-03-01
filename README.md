@@ -3,7 +3,7 @@
 <p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mirsazzathossain/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 
-## I'm a Student, Designer and Developer! 
+## Research Assistant(AGenCy Lab IUB)
 <img align="right" height="250" width="400" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
 - 🔭 I’m currently working on galaxy classification project.
