@@ -13,7 +13,7 @@
 - 💬 Ask me about, umm.. nothing, can't answer.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sazzat.mir/)
 - 😄 Pronouns: He/Him
-- 🥅 2021 Goals: Let me think 🤔
+- 🥅 2022 Goals: Let me think 🤔
 - ⚡ Fun fact: You've successfull wasted your time by visiting my profile. 🤣🤣
 
 ---
