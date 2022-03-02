@@ -65,10 +65,10 @@
     <summary> :zap: My Recent GitHub Activity: </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/PizzaRoma-Project/pull/1) in [mirsazzathossain/PizzaRoma-Project](https://github.com/mirsazzathossain/PizzaRoma-Project)
-2. 💪 Opened PR [#1](https://github.com/mirsazzathossain/PizzaRoma-Project/pull/1) in [mirsazzathossain/PizzaRoma-Project](https://github.com/mirsazzathossain/PizzaRoma-Project)
-3. 🎉 Merged PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
-4. 💪 Opened PR [#1](https://github.com/mirsazzathossain/SPMS/pull/1) in [mirsazzathossain/SPMS](https://github.com/mirsazzathossain/SPMS)
+1. 🗣 Commented on [#14](https://github.com/denehyg/reveal.js-toolbar/issues/14) in [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar)
+2. ❗️ Reopened issue [#1](https://github.com/mirsazzathossain/mirsazzathossain.github.io/issues/1) in [mirsazzathossain/mirsazzathossain.github.io](https://github.com/mirsazzathossain/mirsazzathossain.github.io)
+3. ❗️ Closed issue [#1](https://github.com/mirsazzathossain/mirsazzathossain.github.io/issues/1) in [mirsazzathossain/mirsazzathossain.github.io](https://github.com/mirsazzathossain/mirsazzathossain.github.io)
+4. 🗣 Commented on [#1](https://github.com/mirsazzathossain/mirsazzathossain.github.io/issues/1) in [mirsazzathossain/mirsazzathossain.github.io](https://github.com/mirsazzathossain/mirsazzathossain.github.io)
 5. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 <!--END_SECTION:activity-->
 
