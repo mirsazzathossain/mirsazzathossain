@@ -87,7 +87,7 @@
 
 <details>
     <summary> :zap: This week I spent my time on: </summary>
-    <img alt="Sazzat's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mirsazzathossain&show_icons=true&hide_border=true" />
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ---
