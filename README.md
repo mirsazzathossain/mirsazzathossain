@@ -66,13 +66,8 @@
 <details>
     <summary> :zap: My Recent GitHub Activity: </summary>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mirsazzathossain/animated-adventure/issues/1) in [mirsazzathossain/animated-adventure](https://github.com/mirsazzathossain/animated-adventure)
-2. 💪 Opened PR [#1](https://github.com/mirsazzathossain/animated-adventure/pull/1) in [mirsazzathossain/animated-adventure](https://github.com/mirsazzathossain/animated-adventure)
-3. ❗️ Closed issue [#1](https://github.com/mirsazzathossain/mirsazzathossain.github.io/issues/1) in [mirsazzathossain/mirsazzathossain.github.io](https://github.com/mirsazzathossain/mirsazzathossain.github.io)
-4. 🗣 Commented on [#1](https://github.com/mirsazzathossain/mirsazzathossain.github.io/issues/1) in [mirsazzathossain/mirsazzathossain.github.io](https://github.com/mirsazzathossain/mirsazzathossain.github.io)
-5. 🗣 Commented on [#8](https://github.com/iampavangandhi/Gitwar/issues/8) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 </details>
@@ -80,9 +75,6 @@
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <details>
     <summary> :zap: My GitHub Stats: </summary>
