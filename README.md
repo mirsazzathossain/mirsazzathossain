@@ -77,6 +77,10 @@
 
 </details>
 
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
+</div>
+
 <details>
     <summary> :zap: My GitHub Stats: </summary>
     <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
@@ -84,7 +88,7 @@
 
 <details>
     <summary> :zap: My GitHub Streak: </summary>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=light)](https://git.io/streak-stats)
+    <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white" />
 </details>
 
 <details>
