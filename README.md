@@ -136,18 +136,50 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
     </a> 
 </p>
 
-## GitHub Contribution Graph
+## Spotify Playing 🎧
+<p align="center">
+    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
+        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
+    </a>
+</p>
+
+## GitHub Trophies:
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
+</p>
+
+## GitHub Contribution Graph:
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
 
-## GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=6&rank=SSS,SS,S,AAA,AA,A,B,C">
-</p>
-
-## GitHub  Stats
+## GitHub  Stats:
 <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
+
+## Open source projects:
+<table align="center">
+    <thead align="center">
+        <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/mirsazzathossain/Beholder-GAN.git"><b>Beholder-GAN</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/Beholder-GAN?style=flat-square"/></td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Wakatime Stats:
 <!--START_SECTION:waka-->
@@ -228,37 +260,3 @@ C++                      3 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
----
-
-<h3 align="center">Open source projects</h3>
-<table align="center">
-    <thead align="center">
-        <tr border: none;>
-            <td><b>🎁 Projects</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>👨‍💻 Language</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/mirsazzathossain/Beholder-GAN.git"><b>Beholder-GAN</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/Beholder-GAN?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/Beholder-GAN?style=flat-square"/></td>
-        </tr>
-    </tbody>
-</table>
-
-
-## Spotify Playing 🎧
-<p align="center">
-    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
-    </a>
-</p>
