@@ -143,17 +143,11 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 
 ## WakaTime Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2024%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 133 Contributions in the Year 2022
+> 🏆 134 Contributions in the Year 2022
  > 
-> 📦 372.5 kB Used in GitHub's Storage 
+> 📦 372.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -174,10 +168,10 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 
 ```text
 Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
-Tuesday      85 commits     ████████░░░░░░░░░░░░░░░░░   32.32% 
+Tuesday      84 commits     ████████░░░░░░░░░░░░░░░░░   31.94% 
 Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
 Thursday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
-Friday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   25.86% 
+Friday       69 commits     ██████░░░░░░░░░░░░░░░░░░░   26.24% 
 Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
 Sunday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27%
 
@@ -225,7 +219,6 @@ C++                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mirsazzathossain/mirsazzathossain/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2022 15:18:31 UTC
 <!--END_SECTION:waka-->
 
 
