@@ -1,4 +1,4 @@
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.github.io/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="15px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px">
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.github.io/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="20px">
 
 I am a graduate 🎓 with a strong computer science 💻 background and experience in exploratory data analysis, machine learning, computer vision and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 in the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interest includes Geometric Machine Learning, Group theory and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and doing research 🤓, I like sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or concerns 💬.
 
@@ -141,6 +141,11 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
 
+## GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=6&rank=SSS,SS,S,AAA,AA,A,B,C">
+</p>
+
 ## GitHub  Stats
 <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
 
@@ -223,11 +228,6 @@ C++                      3 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-## GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain">
-</p>
 
 ---
 
