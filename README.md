@@ -154,7 +154,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 </div>
 
 ## GitHub  Stats:
-<p><img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" /></p>
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" height='180em' />  <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height='180em' />
 
 ## Open source projects:
 <table align="center">
