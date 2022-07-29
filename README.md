@@ -4,39 +4,39 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 
 <p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 
-<a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="15px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px"> <img src="https://mirs-gitwar.herokuapp.com/badge?username=mirsazzathossain" height="15px"> 
+## A Few Quick Facts:
+<img align="right" height="280" width="400" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
 
-
-## Research Assistant (AGenCy Lab IUB)
-<img align="right" height="250" width="400" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
-
-- 🔭 I’m currently working on galaxy classification project.
-- 🌱 I’m currently learning Lie algebra.
-- 👯 I’m looking to collaborate on things I am interested in.
-- 🤔 I’m looking for help with whatever you can.
-- 💬 Ask me about, umm.. nothing, can't answer.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/mirsazzathossainn/)
+- 🔭 I’m currently working on classifying radio galaxies.
+- 🧮 I’m currently learning Lie algebra.
+- 👯 I’m looking to collaborate on any ML research project.
+- 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
+- 💬 Ask me about anything related to the latest tech.
+- 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
-- 🥅 2022 Goals: Let me think 🤔
-- ⚡ Fun fact: You've successfull wasted your time by visiting my profile. 🤣🤣
+- 🧾 Check out my [resume](#).
+- 📝 I often write articles on [my blog](#).
+- ⚡ Fun fact: The blog only exists in my dream.. 🤣
 
----
-
-<h3 align="center">Spotify Playing 🎧</h3>
+## Spotify Playing 🎧
 <p align="center">
     <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
         <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
     </a>
 </p>
 
----
-
-<h3 align="center">My GitHub Trophies</h3>
+## GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain">
 </p>
 
+## GitHub Contribution Graph
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
+</div>
+
 ---
+<a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="15px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="15px"> <img src="https://mirs-gitwar.herokuapp.com/badge?username=mirsazzathossain" height="15px"> 
 
 <h3 align="center">Open source projects</h3>
 <table align="center">
@@ -157,10 +157,6 @@ C++                      3 repos             ██░░░░░░░░░�
 
 </details>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
-</div>
-
 <details>
     <summary> :zap: My GitHub Stats: </summary>
     <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true" />
@@ -183,7 +179,7 @@ C++                      3 repos             ██░░░░░░░░░�
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
