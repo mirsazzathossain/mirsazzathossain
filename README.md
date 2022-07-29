@@ -260,3 +260,7 @@ C++                      3 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
