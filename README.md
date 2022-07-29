@@ -5,8 +5,9 @@
 I am a graduate 🎓 with a strong computer science 💻 background and experience in exploratory data analysis, machine learning, computer vision and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 in the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interest includes Geometric Machine Learning, Group theory and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and doing research 🤓, I like sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or concerns 💬.
 
 <p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<br>
 
-## A Few Quick Facts:
+## ⚡ A Few Quick Facts:
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
 - 🔭 I’m currently working on classifying radio galaxies.
@@ -19,8 +20,9 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 - 🧾 Check out my [resume](#).
 - 📝 I often write articles on [my blog](#).
 - ⚡ Fun fact: The blog only exists in my dream.. 🤣
+<br>
 
-## Languages and Tools I use:
+## 🛠️ Languages and Tools I use:
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
@@ -137,28 +139,33 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
     </a> 
 </p>
+<br>
 
-## Spotify Playing 🎧
+## 🎧 Spotify Playing:
 <p align="center">
     <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
         <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
     </a>
 </p>
+<br>
 
-## GitHub Trophies:
+## 🏆 GitHub Trophies:
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
 </p>
+<br>
 
-## GitHub Contribution Graph:
+## 📈 GitHub Contribution Graph:
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
+<br>
 
-## GitHub  Stats:
+## 📊 GitHub  Stats:
 <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' />  <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<br>
 
-## Open source projects:
+## 🚧 Open source projects:
 <table align="center">
     <thead align="center">
         <tr border: none;>
@@ -181,9 +188,9 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
         </tr>
     </tbody>
 </table>
+<br>
 
-
-## Wakatime Stats:
+## 🕑 Wakatime Stats:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
