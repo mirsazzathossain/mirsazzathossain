@@ -1,3 +1,5 @@
+<img align="center" height="500" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
+
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.github.io/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="20px">
 
 I am a graduate 🎓 with a strong computer science 💻 background and experience in exploratory data analysis, machine learning, computer vision and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 in the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interest includes Geometric Machine Learning, Group theory and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and doing research 🤓, I like sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or concerns 💬.
@@ -5,8 +7,6 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 
 ## A Few Quick Facts:
-<img align="right" height="280" width="400" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/code.gif" />
-
 - 🔭 I’m currently working on classifying radio galaxies.
 - 🧮 I’m currently learning Lie algebra.
 - 👯 I’m looking to collaborate on any ML research project.
