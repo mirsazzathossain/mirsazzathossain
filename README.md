@@ -7,6 +7,8 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 
 ## A Few Quick Facts:
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+
 - 🔭 I’m currently working on classifying radio galaxies.
 - 🧮 I’m currently learning Lie algebra.
 - 👯 I’m looking to collaborate on any ML research project.
