@@ -20,6 +20,10 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 - 🧾 Check out my [resume](#).
 - 📝 I often write articles on [my blog](#).
 - ⚡ Fun fact: The blog only exists in my dream.. 🤣
+
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
 <br>
 
 ## 🛠️ Languages and Tools I use:
