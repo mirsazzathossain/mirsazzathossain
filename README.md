@@ -200,7 +200,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 
 > 🏆 232 Contributions in the Year 2022
  > 
-> 📦 311.8 kB Used in GitHub's Storage 
+> 📦 311.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
