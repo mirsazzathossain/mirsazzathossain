@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.github.io/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="20px">
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://gpvc.arturio.dev/mirsazzathossain" height="20px">
 
 I am a graduate 🎓 with a strong computer science 💻 background and experience in exploratory data analysis, machine learning, computer vision and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 in the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interest includes Geometric Machine Learning, Group theory and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and doing research 🤓, I like sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or concerns 💬.
 
@@ -17,8 +17,8 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 - 💬 Ask me about anything related to the latest tech.
 - 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](#).
-- 📝 I often write articles on [my blog](#).
+- 🧾 Check out my [resume]([#](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf)).
+- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
 - ⚡ Fun fact: The blog only exists in my dream.. 🤣
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
