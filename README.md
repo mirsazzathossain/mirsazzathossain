@@ -17,7 +17,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 - 💬 Ask me about anything related to the latest tech.
 - 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume]([#](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf)).
+- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
 - 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
 - ⚡ Fun fact: The blog only exists in my dream.. 🤣
 
