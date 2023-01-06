@@ -8,6 +8,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <br>
 
 ## ⚡ A Few Quick Facts:
+
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
 - 🔭 I’m currently working on classifying radio galaxies.
@@ -27,6 +28,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <br>
 
 ## 🛠️ Languages and Tools I use:
+
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
@@ -146,6 +148,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <br>
 
 ## 🎧 Spotify Playing:
+
 <p align="center">
     <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
         <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
@@ -154,22 +157,26 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <br>
 
 ## 🏆 GitHub Trophies:
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
 </p>
 <br>
 
 ## 📈 GitHub Contribution Graph:
+
 <div align="center">
     <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
 <br>
 
-## 📊 GitHub  Stats:
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' />  <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+## 📊 GitHub Stats:
+
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ## 🚧 Open source projects:
+
 <table align="center">
     <thead align="center">
         <tr border: none;>
@@ -195,80 +202,8 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 <br>
 
 ## 🕑 Wakatime Stats:
+
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 344 Contributions in the Year 2022
- > 
-> 📦 313.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
-🌆 Daytime    140 commits    █████████░░░░░░░░░░░░░░░░   37.33% 
-🌃 Evening    87 commits     █████░░░░░░░░░░░░░░░░░░░░   23.2% 
-🌙 Night      138 commits    █████████░░░░░░░░░░░░░░░░   36.8%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
-Tuesday      90 commits     ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-Wednesday    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
-Friday       120 commits    ████████░░░░░░░░░░░░░░░░░   32.0% 
-Saturday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.07% 
-Sunday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Python                   2 hrs 42 mins       ██████████████████████░░░   88.8% 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.2%
-
-🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-CSE317-Lab-Numerical-Meth3 hrs 2 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████░░░░░░░░░░░░   52.24% 
-Windows                  1 hr 27 mins        ████████████░░░░░░░░░░░░░   47.76%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   32.0% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mirsazzathossain/mirsazzathossain/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 <p align="center">
