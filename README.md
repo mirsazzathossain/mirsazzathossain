@@ -204,6 +204,31 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 13 Contributions in the Year 2023
+ > 
+> 📦 347.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <p align="center">
