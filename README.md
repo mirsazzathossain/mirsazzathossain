@@ -245,17 +245,16 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   12 mins             ████████████████████████░   97.53% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-radio-galaxy-classifier  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
