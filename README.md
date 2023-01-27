@@ -245,16 +245,16 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   57 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RGZ-Self Supervised      57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    57 mins             █████████████████████████   100.0%
 
 ```
 
