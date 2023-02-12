@@ -208,7 +208,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 
 > 🏆 42 Contributions in the Year 2023
  > 
-> 📦 346.6 kB Used in GitHub's Storage 
+> 📦 346.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
