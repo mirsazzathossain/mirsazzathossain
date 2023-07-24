@@ -166,7 +166,7 @@ I am a graduate 🎓 with a strong computer science 💻 background and experien
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.cyclic.app/graph?username=mirsazzathossain&theme=minimal"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
 <br>
 
