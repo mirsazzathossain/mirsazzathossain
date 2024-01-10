@@ -208,11 +208,11 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 
 > 📦 391.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
