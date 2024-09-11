@@ -206,7 +206,7 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 395.2 kB Used in GitHub's Storage 
+> 📦 394.5 kB Used in GitHub's Storage 
  > 
 > 🏆 224 Contributions in the Year 2024
  > 
