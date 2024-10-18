@@ -15,10 +15,10 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 🔭 I’m currently working on multiple projects on Computer Vision.
-- 🧮 I’m currently learning Lie algebra.
-- 👯 I’m looking to collaborate on any Computer Vision related research project.
-- 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
+- 🔭 Working on several Computer Vision projects right now.
+- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
+- 👯 Eager to collaborate on exciting Computer Vision research projects.
+- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
 - 💬 Ask me about anything related to cutting-edge tech and research.
 - 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
@@ -26,8 +26,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 - 📝 I sometimes write articles on [my blog](https://mirsazzathossain.me/articles).
 - ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..Currently, I am working on projects including **domain adaptation**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **3D CNNs**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
-
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea...
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
 <br>
