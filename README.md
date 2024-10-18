@@ -2,7 +2,11 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
-I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
+I am a **Junior Research Scientist** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️, with a strong background in **computer vision** and **machine learning** 💻. Over the past two years, I have actively contributed to these fields, publishing research articles in well-regarded conferences such as **ICIP** and **IJCNN** 🔬. My primary research interests revolve around **computer vision** and solving real-world problems using cutting-edge techniques ✨. 
+
+Currently, I am working on projects including **domain adaptation**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **3D CNNs**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
+
+Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
 
 <p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
@@ -15,14 +19,15 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 - 🧮 I’m currently learning Lie algebra.
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
 - 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
-- 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
+- 💬 Ask me about anything related to cutting-edge tech and research.
+- 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
 - 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
-- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
+- 📝 I sometimes write articles on [my blog](https://mirsazzathossain.me/articles).
+- ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..Currently, I am working on projects including **domain adaptation**, **Mixture-of-Experts** for **large multi-modal models (LMMS)**, **protein dynamics prediction** using **3D CNNs**, and **particle jet tagging** with **graph neural networks** 🔥. I am passionate about learning new topics, contributing to **groundbreaking research**, and sharing valuable insights that help others 🤓. 
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
 <br>
