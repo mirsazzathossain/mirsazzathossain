@@ -147,6 +147,8 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
+> 🏆 305 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
