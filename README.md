@@ -147,6 +147,8 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
+> 🏆 30 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -180,18 +182,16 @@ Sunday                   1064 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-YAML                     3 mins              ███████████████████░░░░░░   75.94 % 
-CSV                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Automate-Seat-Plan       4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
