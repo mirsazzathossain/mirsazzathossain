@@ -147,8 +147,6 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -182,17 +180,16 @@ Sunday                   1138 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 mins              ███████████████████░░░░░░   76.03 % 
-VS Code                  1 min               ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Protein                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
