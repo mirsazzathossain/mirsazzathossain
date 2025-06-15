@@ -147,7 +147,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
