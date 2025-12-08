@@ -147,7 +147,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2025
+> 🏆 150 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -155,6 +155,45 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                492 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+🌆 Daytime                2223 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+🌃 Evening                2219 commits        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌙 Night                  2774 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1590 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Tuesday                  1177 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 666 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Friday                   1417 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Saturday                 889 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Sunday                   796 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
