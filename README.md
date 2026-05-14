@@ -44,6 +44,9 @@ Feel free to reach out to discuss **ideas** or ask research-related questions ðŸ
     <a href="https://huggingface.co" target="_blank"> 
         <code><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35"/></code> 
     </a> 
+    <a href="https://langchain-ai.github.io/langgraph/" target="_blank"> 
+        <code><img src="https://cdn.simpleicons.org/langgraph" alt="langgraph" width="35" height="35"/></code> 
+    </a> 
     <!-- Tools -->
     <a href="https://jupyter.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></code> 
