@@ -76,7 +76,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions ğŸ
 ## ğŸ† GitHub Trophies:
 
 <p align="center">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mirsazzathossain&column=8&row=1">
+    <img src="https://trophy.benkou.dev/?username=mirsazzathossain&column=8&row=1">
 </p>
 <br>
 
