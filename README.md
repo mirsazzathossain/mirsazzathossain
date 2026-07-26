@@ -107,6 +107,53 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
  > 
 > 🔑 33 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+🌆 Daytime                1163 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+🌃 Evening                1061 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌙 Night                  1497 commits        █████████░░░░░░░░░░░░░░░░   36.67 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   718 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Tuesday                  703 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Wednesday                641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Thursday                 413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Friday                   699 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Python                   2 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.11 % 
+TypeScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 53 mins       ███████████████░░░░░░░░░░   60.82 % 
+Claude Code              1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.18 % 
+
+🐱‍💻 Projects: 
+agentic-language-tutor-tu4 hrs 33 mins       ████████████████████████░   95.84 % 
+cohacker                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+mirsazzathossain.me      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+
+💻 Operating System: 
+Linux                    4 hrs 37 mins       ████████████████████████░   97.31 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
