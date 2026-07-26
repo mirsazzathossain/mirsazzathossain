@@ -134,24 +134,21 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.11 % 
-TypeScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JSON                     5 mins              █████████████░░░░░░░░░░░░   50.25 % 
+Python                   4 mins              █████████░░░░░░░░░░░░░░░░   34.72 % 
+Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       ███████████████░░░░░░░░░░   60.82 % 
-Claude Code              1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.18 % 
+VS Code                  10 mins             ██████████████████████░░░   88.26 % 
+Claude Code              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🐱‍💻 Projects: 
-agentic-language-tutor-tu4 hrs 33 mins       ████████████████████████░   95.84 % 
-cohacker                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-mirsazzathossain.me      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+cohacker                 7 mins              ████████████████░░░░░░░░░   64.64 % 
+mirsazzathossain.me      4 mins              █████████░░░░░░░░░░░░░░░░   35.36 % 
 
 💻 Operating System: 
-Linux                    4 hrs 37 mins       ████████████████████████░   97.31 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Windows                  7 mins              ████████████████░░░░░░░░░   64.64 % 
+Linux                    4 mins              █████████░░░░░░░░░░░░░░░░   35.36 % 
 ```
 
 **I Mostly Code in Python** 
