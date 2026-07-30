@@ -95,26 +95,99 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2010%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 336 Contributions in the Year 2026
+> 🏆 344 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 42 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+🌆 Daytime                1166 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌃 Evening                1063 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+🌙 Night                  1499 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Friday                   699 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Python                   1 hr 1 min          ██████████████░░░░░░░░░░░   54.08 % 
+TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🔥 Editors: 
+VS Code                  1 hr 52 mins        █████████████████████████   98.78 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+
+🐱‍💻 Projects: 
+agentic-language-tutor-tu1 hr 35 mins        █████████████████████░░░░   84.05 % 
+cohacker                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+mirsazzathossain.me      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+plinth-core-service      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+
+💻 Operating System: 
+Linux                    1 hr 39 mins        ██████████████████████░░░   87.74 % 
+Windows                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 mins (3.69%)
+
+✍️ 0 lines written by AI, 550 lines written by hand (0.0% AI-written)
+
+🔤 434,957 Input Tokens, 946 Output Tokens
+
+💵 $1.32 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 3,308 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ██████████░░░░░░░░░░░░░░░   39.44 % 
-Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python                   29 repos            ██████████░░░░░░░░░░░░░░░   40.28 % 
+Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
