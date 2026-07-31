@@ -101,7 +101,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 344 Contributions in the Year 2026
+> 🏆 346 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-🌆 Daytime                1166 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌃 Evening                1063 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-🌙 Night                  1499 commits        █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌞 Morning                368 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+🌆 Daytime                1166 commits        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+🌃 Evening                1063 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+🌙 Night                  1499 commits        █████████░░░░░░░░░░░░░░░░   36.60 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Monday                   721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 Friday                   699 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 ```
 
 
@@ -136,48 +136,29 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          ██████████████░░░░░░░░░░░   54.08 % 
-TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   1 hr 1 min          ██████████████░░░░░░░░░░░   56.15 % 
+TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   98.78 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-agentic-language-tutor-tu1 hr 35 mins        █████████████████████░░░░   84.05 % 
-cohacker                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-mirsazzathossain.me      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-plinth-core-service      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+agentic-language-tutor-tu1 hr 35 mins        ██████████████████████░░░   87.27 % 
+cohacker                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+plinth-core-service      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Linux                    1 hr 39 mins        ██████████████████████░░░   87.74 % 
-Windows                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Linux                    1 hr 35 mins        ██████████████████████░░░   87.27 % 
+Windows                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (3.69%)
-
-✍️ 0 lines written by AI, 550 lines written by hand (0.0% AI-written)
-
-🔤 434,957 Input Tokens, 946 Output Tokens
-
-💵 $1.32 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,308 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
