@@ -95,7 +95,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -136,29 +136,49 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          ██████████████░░░░░░░░░░░   56.15 % 
-TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python                   2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.76 % 
+TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+Claude Code              4 hrs 21 mins       ███████████████░░░░░░░░░░   60.68 % 
+VS Code                  2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
 
 🐱‍💻 Projects: 
-agentic-language-tutor-tu1 hr 35 mins        ██████████████████████░░░   87.27 % 
-cohacker                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-plinth-core-service      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+sarothi                  3 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.79 % 
+plinth-core-service      1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+agentic-language-tutor-tu1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+plinth_frontend          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+cohacker                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        ██████████████████████░░░   87.27 % 
-Windows                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Linux                    5 hrs 10 mins       ██████████████████░░░░░░░   71.95 % 
+Windows                  2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 57 mins (69.06%)
+
+✍️ 4,676 lines written by AI, 553 lines written by hand (89.42% AI-written)
+
+🔤 202,435,452 Input Tokens, 372,680 Output Tokens
+
+💵 $627.03 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 55 AI Prompts
+
+Sonnet                   4,251 lines         █████████████████████░░░░   84.41 % 
+Opus                     785 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.42% of written lines came from AI
+📄 Detailed Prompter — average 592 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
+🚀 High AI Trust — 10.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
