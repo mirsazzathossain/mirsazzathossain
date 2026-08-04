@@ -101,7 +101,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 346 Contributions in the Year 2026
+> 🏆 347 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                368 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-🌆 Daytime                1166 commits        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-🌃 Evening                1063 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-🌙 Night                  1499 commits        █████████░░░░░░░░░░░░░░░░   36.60 % 
+🌞 Morning                514 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+🌆 Daytime                1755 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌃 Evening                1575 commits        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌙 Night                  2141 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Friday                   699 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Tuesday                  1007 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Thursday                 607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Friday                   1077 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Saturday                 662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 
@@ -185,11 +185,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ██████████░░░░░░░░░░░░░░░   40.28 % 
-Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   30 repos            ██████████░░░░░░░░░░░░░░░   41.10 % 
+Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
