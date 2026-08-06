@@ -136,34 +136,34 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Git Config               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Git Config               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 49 mins       ██████████████░░░░░░░░░░░   56.73 % 
-VS Code                  5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
+Claude Code              6 hrs 49 mins       ████████████████░░░░░░░░░   63.63 % 
+VS Code                  3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
 
 🐱‍💻 Projects: 
-sarothi                  3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-plinth-core-service      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-verbant                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-plinth-delivery.         1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-agentic-language-tutor-tu1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+sarothi                  3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+plinth-core-service      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+verbant                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+plinth-delivery.         1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+plinth-agent             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 💻 Operating System: 
-Linux                    8 hrs 38 mins       ██████████████████░░░░░░░   71.75 % 
-Windows                  3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Linux                    7 hrs 2 mins        ████████████████░░░░░░░░░   65.65 % 
+Windows                  3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (66.63%)
+⏱ AI Coding Time: 8 hrs 1 min (74.74%)
 
-✍️ 8,170 lines written by AI, 5,076 lines written by hand (61.68% AI-written)
+✍️ 8,170 lines written by AI, 4,939 lines written by hand (62.32% AI-written)
 
 🔤 241,477,821 Input Tokens, 523,440 Output Tokens
 
@@ -176,10 +176,10 @@ Opus                     2,856 lines         ████████░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.68% of written lines came from AI
+⚖️ Balanced with AI — 62.32% of written lines came from AI
 📚 Verbose Prompter — average 7,418 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 46.9% of changed lines were hand-edited
+🚀 High AI Trust — 47.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
