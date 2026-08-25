@@ -101,7 +101,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2026
+> 🏆 372 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                371 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-🌆 Daytime                1179 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-🌃 Evening                1066 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-🌙 Night                  1499 commits        █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌞 Morning                371 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1183 commits        ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌃 Evening                1066 commits        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+🌙 Night                  1501 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   725 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  709 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Friday                   705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Monday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Tuesday                  711 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 ```
 
 
@@ -136,33 +136,34 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
-Markdown                 1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Other                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Markdown                 3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
+Python                   3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
+Other                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 25 mins       ██████████████████████░░░   86.43 % 
-VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Claude Code              7 hrs 25 mins       ██████████████████░░░░░░░   71.37 % 
+VS Code                  2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
 
 🐱‍💻 Projects: 
-plinth-agent             6 hrs 45 mins       ████████████████████░░░░░   78.80 % 
-Bangla TTS               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-event_registration       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-qwen3-tts-upstream       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+plinth-agent             6 hrs 45 mins       ████████████████░░░░░░░░░   65.07 % 
+Unknown Project          1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Bangla TTS               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+event_registration       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+qwen3-tts-upstream       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Windows                  6 hrs 45 mins       ████████████████████░░░░░   78.80 % 
-Linux                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Windows                  6 hrs 45 mins       ████████████████░░░░░░░░░   65.07 % 
+Linux                    3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (91.82%)
+⏱ AI Coding Time: 7 hrs 52 mins (75.81%)
 
-✍️ 3,871 lines written by AI, 204 lines written by hand (94.99% AI-written)
+✍️ 3,871 lines written by AI, 246 lines written by hand (94.02% AI-written)
 
 🔤 4,707,870 Input Tokens, 466,913 Output Tokens
 
@@ -174,10 +175,10 @@ Sonnet                   3,360 lines         ███████████�
 Opus                     682 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.99% of written lines came from AI
+🤖 AI-Driven — 94.02% of written lines came from AI
 📄 Detailed Prompter — average 547 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.07% of changed lines were hand-edited
+🚀 High AI Trust — 7.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
