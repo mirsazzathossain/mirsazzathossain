@@ -95,7 +95,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -136,49 +136,48 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
-Python                   3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
-Other                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Markdown                 3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
+Python                   2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Docker                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 25 mins       ██████████████████░░░░░░░   71.37 % 
-VS Code                  2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Claude Code              6 hrs 12 mins       █████████████████░░░░░░░░   69.10 % 
+VS Code                  2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
 
 🐱‍💻 Projects: 
-plinth-agent             6 hrs 45 mins       ████████████████░░░░░░░░░   65.07 % 
-Unknown Project          1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Bangla TTS               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-event_registration       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-qwen3-tts-upstream       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+plinth-agent             5 hrs 33 mins       ███████████████░░░░░░░░░░   61.81 % 
+Unknown Project          1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Bangla TTS               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+qwen3-tts-upstream       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Windows                  6 hrs 45 mins       ████████████████░░░░░░░░░   65.07 % 
-Linux                    3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+Windows                  5 hrs 33 mins       ███████████████░░░░░░░░░░   61.81 % 
+Linux                    3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (75.81%)
+⏱ AI Coding Time: 6 hrs 40 mins (74.24%)
 
-✍️ 3,871 lines written by AI, 246 lines written by hand (94.02% AI-written)
+✍️ 4,200 lines written by AI, 245 lines written by hand (94.49% AI-written)
 
-🔤 4,707,870 Input Tokens, 466,913 Output Tokens
+🔤 3,993,964 Input Tokens, 410,106 Output Tokens
 
-💵 $141.38 Estimated AI Cost This Week
+💵 $106.67 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 60 AI Prompts
+🧠 6 AI Sessions, 55 AI Prompts
 
-Sonnet                   3,360 lines         █████████████████████░░░░   83.13 % 
-Opus                     682 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Sonnet                   3,360 lines         ███████████████████░░░░░░   76.99 % 
+Opus                     1,004 lines         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.02% of written lines came from AI
-📄 Detailed Prompter — average 547 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 7.46% of changed lines were hand-edited
+🤖 AI-Driven — 94.49% of written lines came from AI
+📄 Detailed Prompter — average 589 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 6.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
