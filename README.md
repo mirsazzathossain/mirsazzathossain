@@ -109,6 +109,76 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                371 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+🌆 Daytime                1188 commits        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                1066 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+🌙 Night                  1501 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Tuesday                  711 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Wednesday                646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Friday                   709 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Sunday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Markdown                 2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.30 % 
+Docker                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 54 mins       █████████████░░░░░░░░░░░░   51.64 % 
+VS Code                  2 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.36 % 
+
+🐱‍💻 Projects: 
+Bangla TTS               3 hrs 42 mins       ████████████████░░░░░░░░░   65.81 % 
+Unknown Project          1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   32.11 % 
+plinth-agent             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+
+💻 Operating System: 
+Linux                    5 hrs 31 mins       ████████████████████████░   97.91 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 18 mins (58.48%)
+
+✍️ 1,805 lines written by AI, 55 lines written by hand (97.04% AI-written)
+
+🔤 715,438 Input Tokens, 162,146 Output Tokens
+
+💵 $17.44 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 52 AI Prompts
+
+Sonnet                   1,525 lines         ███████████████████░░░░░░   77.10 % 
+Opus                     453 lines           ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.04% of written lines came from AI
+📝 Concise Prompter — average 71 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 6.12% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
