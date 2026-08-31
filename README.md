@@ -95,7 +95,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -136,50 +136,50 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 2 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.00 % 
-Docker                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Python                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+Docker                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Python                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 37 mins       █████████████░░░░░░░░░░░░   52.07 % 
-Claude Code              2 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+Claude Code              3 hrs 10 mins       ██████████████░░░░░░░░░░░   54.09 % 
+VS Code                  2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
 
 🐱‍💻 Projects: 
-Bangla TTS               2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
-Unknown Project          1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   35.91 % 
-test                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-verbant                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-plinth-agent             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Bangla TTS               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.94 % 
+Unknown Project          1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   30.81 % 
+verbant                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+test                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+plinth-agent             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       ████████████████████████░   97.67 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Linux                    5 hrs 45 mins       ████████████████████████░   98.00 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (58.03%)
+⏱ AI Coding Time: 3 hrs 45 mins (63.99%)
 
-✍️ 873 lines written by AI, 48 lines written by hand (94.79% AI-written)
+✍️ 962 lines written by AI, 48 lines written by hand (95.25% AI-written)
 
-🔤 2,916,741 Input Tokens, 130,375 Output Tokens
+🔤 9,474,877 Input Tokens, 153,071 Output Tokens
 
-💵 $34.58 Estimated AI Cost This Week
+💵 $75.27 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 53 AI Prompts
+🧠 5 AI Sessions, 82 AI Prompts
 
-Opus                     469 lines           █████████████░░░░░░░░░░░░   53.05 % 
-Sonnet                   399 lines           ███████████░░░░░░░░░░░░░░   45.14 % 
-Fable                    16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Opus                     558 lines           ██████████████░░░░░░░░░░░   57.35 % 
+Sonnet                   399 lines           ██████████░░░░░░░░░░░░░░░   41.01 % 
+Fable                    16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.79% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 8.39% of changed lines were hand-edited
+🤖 AI-Driven — 95.25% of written lines came from AI
+📝 Concise Prompter — average 155 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 7.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
