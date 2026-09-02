@@ -136,49 +136,47 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Docker                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-SQL                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Docker                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+SQL                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 10 mins       ████████████████████░░░░░   78.17 % 
-VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Claude Code              3 hrs 3 mins        ███████████████████░░░░░░   77.56 % 
+VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
 
 🐱‍💻 Projects: 
-Bangla TTS               2 hrs 6 mins        █████████████░░░░░░░░░░░░   51.94 % 
-verbant                  1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-test                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-plinth-agent             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Bangla TTS               2 hrs 6 mins        █████████████░░░░░░░░░░░░   53.48 % 
+verbant                  1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+test                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 
 💻 Operating System: 
-Linux                    3 hrs 57 mins       ████████████████████████░   97.11 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 45 mins (92.49%)
+⏱ AI Coding Time: 3 hrs 38 mins (92.26%)
 
-✍️ 962 lines written by AI, 6 lines written by hand (99.38% AI-written)
+✍️ 509 lines written by AI, 6 lines written by hand (98.83% AI-written)
 
-🔤 9,474,877 Input Tokens, 153,071 Output Tokens
+🔤 9,422,782 Input Tokens, 142,049 Output Tokens
 
-💵 $75.27 Estimated AI Cost This Week
+💵 $74.37 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 82 AI Prompts
+🧠 4 AI Sessions, 81 AI Prompts
 
-Opus                     558 lines           ██████████████░░░░░░░░░░░   57.35 % 
-Sonnet                   399 lines           ██████████░░░░░░░░░░░░░░░   41.01 % 
-Fable                    16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Sonnet                   399 lines           ███████████████████░░░░░░   76.73 % 
+Opus                     105 lines           █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Fable                    16 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📝 Concise Prompter — average 155 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 1.62% of changed lines were hand-edited
+🤖 AI-Driven — 98.83% of written lines came from AI
+📝 Concise Prompter — average 157 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 2.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
