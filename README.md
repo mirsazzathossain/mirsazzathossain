@@ -109,6 +109,71 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌆 Daytime                1515 commits        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+🌃 Evening                1326 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+🌙 Night                  1822 commits        █████████░░░░░░░░░░░░░░░░   35.66 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Tuesday                  866 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Wednesday                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Thursday                 521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Friday                   920 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Saturday                 564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Other                    1 hr 41 mins        ██████████████████████░░░   89.45 % 
+SQL                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🔥 Editors: 
+Claude Code              1 hr 46 mins        ████████████████████████░   94.21 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+
+🐱‍💻 Projects: 
+verbant                  1 hr 53 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 53 mins (100.0%)
+
+✍️ 69 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 6,747,861 Input Tokens, 51,461 Output Tokens
+
+💵 $42.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 88 AI Prompts
+
+Opus                     69 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 214 characters per prompt
+🔁 Iterative Prompter — average 88 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
