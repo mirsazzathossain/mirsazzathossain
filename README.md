@@ -95,7 +95,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2020%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -136,41 +136,42 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    52 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
-JSON                     44 mins             █████████░░░░░░░░░░░░░░░░   37.84 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Other                    1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
+JSON                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+Python                   52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-Claude Code              1 hr 42 mins        ██████████████████████░░░   87.01 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Claude Code              3 hrs 31 mins       ███████████████████████░░   92.90 % 
+VS Code                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🐱‍💻 Projects: 
-verbant                  1 hr 57 mins        █████████████████████████   100.00 % 
+verbant                  3 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 47 mins (100.0%)
 
-✍️ 92 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 139 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,881,479 Input Tokens, 120,824 Output Tokens
+🔤 2,160,624 Input Tokens, 321,213 Output Tokens
 
-💵 $34.93 Estimated AI Cost This Week
+💵 $61.49 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 187 AI Prompts
+🧠 4 AI Sessions, 197 AI Prompts
 
-Sonnet                   92 lines            █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   92 lines            █████████████████░░░░░░░░   66.19 % 
+Opus                     47 lines            ████████░░░░░░░░░░░░░░░░░   33.81 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 860 characters per prompt
-🔁 Iterative Prompter — average 94 prompts per session
+📄 Detailed Prompter — average 938 characters per prompt
+🔁 Iterative Prompter — average 49 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
