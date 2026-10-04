@@ -136,51 +136,51 @@ Sunday                   548 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   6 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Markdown                 5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Bash                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Python                   2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Bash                     2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Git Config               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 45 mins      ██████████████████████░░░   89.26 % 
-VS Code                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Codex Vscode             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Claude Code              13 hrs 25 mins      ██████████████████████░░░   89.18 % 
+VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Codex Vscode             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🐱‍💻 Projects: 
-AskUoC                   9 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.20 % 
-verbant                  9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-ArchCAD                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-mirsazzathossain.me      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-cohacker                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+AskUoC                   9 hrs 55 mins       ████████████████░░░░░░░░░   65.89 % 
+verbant                  3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+ArchCAD                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+mirsazzathossain.me      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+cohacker                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Linux                    20 hrs 3 mins       ████████████████████████░   95.44 % 
-Windows                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Linux                    14 hrs 5 mins       ███████████████████████░░   93.63 % 
+Windows                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 54 mins (99.48%)
+⏱ AI Coding Time: 14 hrs 56 mins (99.28%)
 
-✍️ 6,464 lines written by AI, 53 lines written by hand (99.19% AI-written)
+✍️ 4,809 lines written by AI, 53 lines written by hand (98.91% AI-written)
 
-🔤 8,093,003 Input Tokens, 1,553,000 Output Tokens
+🔤 5,870,299 Input Tokens, 1,205,459 Output Tokens
 
-💵 $330.77 Estimated AI Cost This Week
+💵 $212.21 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 426 AI Prompts
+🧠 15 AI Sessions, 275 AI Prompts
 
-Opus                     4,977 lines         ███████████████████░░░░░░   76.43 % 
-Sonnet                   1,092 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-GPT                      443 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Opus                     3,765 lines         ███████████████████░░░░░░   77.52 % 
+Sonnet                   1,092 lines         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📚 Verbose Prompter — average 3,781 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 1.11% of changed lines were hand-edited
+🤖 AI-Driven — 98.91% of written lines came from AI
+📚 Verbose Prompter — average 3,106 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 1.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
