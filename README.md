@@ -136,41 +136,40 @@ Sunday                   661 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Bash                     2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
-Python                   1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   31.10 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Python                   1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   34.39 % 
+Bash                     1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+YAML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 46 mins       ████████████████████░░░░░   80.75 % 
-VS Code                  1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              4 hrs 30 mins       █████████████████████░░░░   84.42 % 
+VS Code                  49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-ms-po                    4 hrs 21 mins       ██████████████████░░░░░░░   73.75 % 
-AskUoC                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Plinth-Desktop-new       32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-notebook                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-server                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+ms-po                    4 hrs 21 mins       ████████████████████░░░░░   81.56 % 
+Plinth-Desktop-new       32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+notebook                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+server                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████░░░░   83.32 % 
-Windows                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Linux                    4 hrs 21 mins       ████████████████████░░░░░   81.56 % 
+Windows                  59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (89.46%)
+⏱ AI Coding Time: 4 hrs 59 mins (93.6%)
 
-✍️ 1,892 lines written by AI, 73 lines written by hand (96.28% AI-written)
+✍️ 1,892 lines written by AI, 28 lines written by hand (98.54% AI-written)
 
-🔤 3,299,607 Input Tokens, 450,464 Output Tokens
+🔤 2,595,495 Input Tokens, 423,832 Output Tokens
 
-💵 $108.33 Estimated AI Cost This Week
+💵 $105.86 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 90 AI Prompts
+🧠 5 AI Sessions, 85 AI Prompts
 
 Opus                     2,178 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -179,10 +178,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.28% of written lines came from AI
-📄 Detailed Prompter — average 621 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 5.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.54% of written lines came from AI
+📄 Detailed Prompter — average 655 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 2.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
