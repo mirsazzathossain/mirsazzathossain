@@ -136,35 +136,35 @@ Sunday                   991 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Bash                     47 mins             ████████░░░░░░░░░░░░░░░░░   33.78 % 
-Text                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Bash                     47 mins             ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Text                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🔥 Editors: 
-Claude Code              1 hr 26 mins        ███████████████░░░░░░░░░░   61.65 % 
-VS Code                  36 mins             ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-Codex Vscode             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Claude Code              1 hr 26 mins        ███████████████░░░░░░░░░░   61.45 % 
+VS Code                  37 mins             ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Codex Vscode             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 
 🐱‍💻 Projects: 
-annotation               1 hr                ███████████░░░░░░░░░░░░░░   42.71 % 
-ScamShield               47 mins             ████████░░░░░░░░░░░░░░░░░   33.58 % 
-verbant                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-frontend                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-mirsazzathossain.me      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+annotation               1 hr                ███████████░░░░░░░░░░░░░░   42.57 % 
+ScamShield               47 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
+verbant                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+frontend                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+mirsazzathossain.me      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        ████████████████████░░░░░   81.14 % 
-Linux                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Windows                  1 hr 54 mins        ████████████████████░░░░░   80.88 % 
+Linux                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (84.27%)
+⏱ AI Coding Time: 1 hr 58 mins (84.0%)
 
-✍️ 5,681 lines written by AI, 80 lines written by hand (98.61% AI-written)
+✍️ 5,681 lines written by AI, 90 lines written by hand (98.44% AI-written)
 
 🔤 514,839 Input Tokens, 257,071 Output Tokens
 
@@ -177,10 +177,10 @@ GPT                      23 lines            ░░░░░░░░░░░�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.61% of written lines came from AI
+🤖 AI-Driven — 98.44% of written lines came from AI
 📝 Concise Prompter — average 379 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+🚀 High AI Trust — 1.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
