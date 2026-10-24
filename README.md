@@ -95,7 +95,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -109,80 +109,6 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-🌆 Daytime                1239 commits        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-🌃 Evening                1082 commits        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-🌙 Night                  1508 commits        █████████░░░░░░░░░░░░░░░░   35.83 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   746 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Tuesday                  726 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Wednesday                664 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 440 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Friday                   721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-MDX                      6 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.59 % 
-Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-
-🔥 Editors: 
-Claude Code              10 hrs 45 mins      █████████████████████░░░░   82.94 % 
-VS Code                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Codex Vscode             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-
-🐱‍💻 Projects: 
-mirsazzathossain.me      10 hrs 40 mins      █████████████████████░░░░   82.18 % 
-annotation               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-ScamShield               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-verbant                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-frontend                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-
-💻 Operating System: 
-Linux                    11 hrs 4 mins       █████████████████████░░░░   85.30 % 
-Windows                  1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 2 mins (92.8%)
-
-✍️ 7,319 lines written by AI, 156 lines written by hand (97.91% AI-written)
-
-🔤 4,633,437 Input Tokens, 931,771 Output Tokens
-
-💵 $101.74 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 252 AI Prompts
-
-Opus                     7,357 lines         █████████████████████████   99.69 % 
-GPT                      23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.91% of written lines came from AI
-📄 Detailed Prompter — average 812 characters per prompt
-🔁 Iterative Prompter — average 42 prompts per session
-🚀 High AI Trust — 2.7% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
