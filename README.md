@@ -136,41 +136,41 @@ Sunday                   449 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-MDX                      3 hrs 7 mins        ███████████████████████░░   92.77 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Astro                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+MDX                      2 hrs 10 mins       ██████████████████████░░░   89.92 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Astro                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 22 mins       █████████████████████████   100.00 % 
+Claude Code              2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mirsazzathossain.me      3 hrs 22 mins       █████████████████████████   100.00 % 
+mirsazzathossain.me      2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 24 mins (100.0%)
 
-✍️ 2,726 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,677 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,508,482 Input Tokens, 316,335 Output Tokens
+🔤 4,725,413 Input Tokens, 196,138 Output Tokens
 
-💵 $84.46 Estimated AI Cost This Week
+💵 $66.13 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 75 AI Prompts
+🧠 5 AI Sessions, 52 AI Prompts
 
-Opus                     2,933 lines         █████████████████████████   100.00 % 
+Opus                     1,884 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,120 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📄 Detailed Prompter — average 616 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
