@@ -13,9 +13,9 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027. Fee
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 📖 Currently working on **test-time RL** for search agents and **on-policy self-distillation**.
+- 📖 Currently working on **test-time RL** for search agents and **OPSD**.
 - 🛠️ Primary stack: **PyTorch** · **Hugging Face** · **vLLM** · **TRL** · **verl**.
-- 🤝 Open to research collaborations on **LLM agents**, **RL for LLMs**, or **Bangla NLP**.
+- 🤝 Open to research collaborations on **LLM agents**, **RL for LLMs**.
 - 🎓 Applying to **Ph.D. programs** in CS for Fall 2027, focusing on NLP and LLM post-training.
 - 🗂️ See what I'm working on: [research projects](https://mirsazzathossain.me/projects).
 - 💬 Ask me about research, paper writing, or grad school.
