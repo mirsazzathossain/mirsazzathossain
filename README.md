@@ -2,23 +2,22 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
-A highly motivated and aspiring researcher with a strong background in **deep learning**, with recent work centered on **multimodal learning** 💻. Over the past few years, I have actively contributed to the field, publishing research articles in top-tier venues such as **ACL** and **WACV** 🔬. My primary research interests lie in **vision-language models**. I have also worked on **domain adaptation** and **federated learning**, and continue to explore these areas with strong interest ✨.
+I am working as an **AI Engineer** at [**Penta Global Limited**](https://www.pentabd.com/), and was previously a research assistant at the [**Center for Computational & Data Sciences (CCDS)**](http://ccds.ai/), Independent University, Bangladesh. My research is in **natural language processing**, with a focus on **LLM agents**, **LLM post-training**, and the evaluation of language and vision-language models. Currently, I am working on **reinforcement learning**, **adversarial policy optimization**, and **on-policy self-distillation** for LLMs, especially in settings without labeled data. My work has been published at **ACL**, **WACV** and **AACL**.
 
-Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational & Data Sciences (CCDS)**](http://ccds.ai/) at **Independent University, Bangladesh** 🏛️. My recent work explores **multimodal alignment**, **efficient adaptation**, and **generative approaches**, including **diffusion models** and **constrained generation** 🔥. I am actively seeking **Ph.D. opportunities** in Computer Science, with an emphasis on **vision-language models**, **domain adaptation**, and **generative models** 🤓.
+I am looking for **Ph.D. positions** in Computer Science starting Fall 2027. Feel free to reach out to discuss ideas or research.
 
-Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
-
-<p><a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://discord.gg/M7Jjv9hr"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a></p>
+<p><a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://discord.com/users/543109302848585740"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a></p>
 <br>
 
 ## ⚡ A Few Quick Facts:
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 📖 Currently diving into **multimodal alignment** and **computer use agents**.
-- 🛠️ Primary stack: **PyTorch** · **HuggingFace** · **LangGraph**.
-- 🤝 Open to research collaborations on **VLMs**, **domain adaptation**, or **generative models**.
-- 🎓 Actively applying to **Ph.D. programs** in CS — focus on multimodal and agentic AI.
+- 📖 Currently working on **test-time RL** for search agents and **on-policy self-distillation**.
+- 🛠️ Primary stack: **PyTorch** · **Hugging Face** · **vLLM** · **TRL** · **verl**.
+- 🤝 Open to research collaborations on **LLM agents**, **RL for LLMs**, or **Bangla NLP**.
+- 🎓 Applying to **Ph.D. programs** in CS for Fall 2027, focusing on NLP and LLM post-training.
+- 🗂️ See what I'm working on: [research projects](https://mirsazzathossain.me/projects).
 - 💬 Ask me about research, paper writing, or grad school.
 - 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
@@ -68,7 +67,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
     </a> 
     <!-- Cloud -->
     <a href="https://aws.amazon.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
+        <code><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="35" height="35"/></code> 
     </a>
 </p>
 <br>
@@ -76,20 +75,20 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-    <img src="https://trophy.benkou.dev/?username=mirsazzathossain&column=8&row=1">
+    <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=mirsazzathossain&column=7">
 </p>
 <br>
 
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
+    <img width="100%" alt="GitHub contribution graph" src="https://ghchart.rshah.org/409ba5/mirsazzathossain"/>
 </div>
 <br>
 
 ## 📊 GitHub Stats:
 
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="Sazzat's GitHub Streak" src="https://streak-stats.demolab.com/?user=mirsazzathossain&theme=default&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ## 🕑 Wakatime Stats:
