@@ -2,9 +2,9 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
-I am working as an **AI Engineer** at [**Penta Global Limited**](https://www.pentabd.com/), and was previously a research assistant at the [**Center for Computational & Data Sciences (CCDS)**](http://ccds.ai/), Independent University, Bangladesh. My research is in **natural language processing**, with a focus on **LLM agents**, **LLM post-training**, and the evaluation of language and vision-language models. Currently, I am working on **reinforcement learning**, **adversarial policy optimization**, and **on-policy self-distillation** for LLMs, especially in settings without labeled data. My work has been published at **ACL**, **WACV** and **AACL**.
+I am working as an **AI Engineer** 🧑‍💻 at [**Penta Global Limited**](https://www.pentabd.com/), and was previously a **Research Assistant** 🧑‍🔬 at the [**Center for Computational & Data Sciences (CCDS)**](http://ccds.ai/) at **Independent University, Bangladesh** 🏛️. My research is in **natural language processing**, with a focus on **LLM agents**, **LLM post-training**, and the **evaluation of language and vision-language models** 💻. Currently, I am working on **reinforcement learning**, **adversarial policy optimization**, and **on-policy self-distillation** for LLMs, especially in settings without **labeled data** 🔥. My work has been published at **ACL**, **WACV** and **AACL** 🔬.
 
-I am looking for **Ph.D. positions** in Computer Science starting Fall 2027. Feel free to reach out to discuss ideas or research.
+I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓. Feel free to reach out to discuss **ideas** or ask research-related questions 💬!
 
 <p><a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://discord.com/users/543109302848585740"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a></p>
 <br>
@@ -13,11 +13,11 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027. Fee
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 📖 Currently working on **test-time RL** for search agents and **OPSD**.
+- 📖 Currently working on **test-time RL** for search agents and **on-policy self-distillation**.
 - 🛠️ Primary stack: **PyTorch** · **Hugging Face** · **vLLM** · **TRL** · **verl**.
-- 🤝 Open to research collaborations on **LLM agents**, **RL for LLMs**.
-- 🎓 Applying to **Ph.D. programs** in CS for Fall 2027, focusing on NLP and LLM post-training.
-- 🗂️ See what I'm working on: [research projects](https://mirsazzathossain.me/projects).
+- 🤝 Open to research collaborations on **LLM agents**, **RL for LLMs**, or **Bangla NLP**.
+- 🎓 Actively applying to **Ph.D. programs** in CS for Fall 2027, focusing on **NLP** and **LLM post-training**.
+- 🗂️ Check out my [research projects](https://mirsazzathossain.me/projects).
 - 💬 Ask me about research, paper writing, or grad school.
 - 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
 - 😄 Pronouns: He/Him
@@ -82,7 +82,7 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027. Fee
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img width="100%" alt="GitHub contribution graph" src="https://ghchart.rshah.org/409ba5/mirsazzathossain"/>
+    <img height="300px" alt="GitHub contribution graph" src="https://github-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
 </div>
 <br>
 
@@ -149,28 +149,6 @@ mirsazzathossain.me      2 hrs 24 mins       ███████████�
 
 💻 Operating System: 
 Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 24 mins (100.0%)
-
-✍️ 1,677 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 4,725,413 Input Tokens, 196,138 Output Tokens
-
-💵 $66.13 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 52 AI Prompts
-
-Opus                     1,884 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 616 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
