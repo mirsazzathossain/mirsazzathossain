@@ -94,13 +94,11 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2036%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2026
+> 🏆 503 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -108,49 +106,6 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-🌆 Daytime                1249 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-🌃 Evening                1082 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-🌙 Night                  1516 commits        █████████░░░░░░░░░░░░░░░░   35.83 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Tuesday                  726 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Thursday                 443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Friday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Sunday                   449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-MDX                      2 hrs 10 mins       ██████████████████████░░░   89.92 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Astro                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-Claude Code              2 hrs 25 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-mirsazzathossain.me      2 hrs 24 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
