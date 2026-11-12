@@ -111,21 +111,21 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-🌆 Daytime                1265 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌃 Evening                1085 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌙 Night                  1548 commits        █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌞 Morning                447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🌆 Daytime                1435 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌃 Evening                1137 commits        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+🌙 Night                  1667 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   779 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Tuesday                  729 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Wednesday                686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Thursday                 443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   731 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Saturday                 467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Sunday                   451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Monday                   856 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Tuesday                  805 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                751 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Thursday                 501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Friday                   803 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Saturday                 477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Sunday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 
 
