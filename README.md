@@ -100,32 +100,32 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 530 Contributions in the Year 2026
+> 🏆 532 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 34 Private Repositories 
+> 🔑 35 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-🌆 Daytime                2040 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌆 Daytime                2040 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
 🌃 Evening                1631 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌙 Night                  2276 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌙 Night                  2277 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   1239 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 Tuesday                  1075 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Wednesday                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Wednesday                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 Thursday                 674 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 Friday                   1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 Saturday                 665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Sunday                   681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Sunday                   682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 
 
@@ -155,11 +155,11 @@ Linux                    6 hrs 49 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            ███████████░░░░░░░░░░░░░░   44.16 % 
-Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   34 repos            ███████████░░░░░░░░░░░░░░   43.59 % 
+Jupyter Notebook         14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
