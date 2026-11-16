@@ -100,7 +100,7 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 532 Contributions in the Year 2026
+> 🏆 534 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,18 +112,18 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 
 ```text
 🌞 Morning                577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-🌆 Daytime                2040 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌃 Evening                1631 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌙 Night                  2277 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌆 Daytime                2040 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌃 Evening                1631 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+🌙 Night                  2279 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1239 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Tuesday                  1075 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Monday                   1241 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Tuesday                  1075 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 Wednesday                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 Thursday                 674 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Friday                   1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Friday                   1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 Saturday                 665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 Sunday                   682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
@@ -135,21 +135,21 @@ Sunday                   682 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Astro                    1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-MDX                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Image (svg)              49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+JSON                     1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+Astro                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+MDX                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 46 mins       █████████████████████████   99.40 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude Code              5 hrs 33 mins       █████████████████████████   99.27 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🐱‍💻 Projects: 
-mirsazzathossain.me      6 hrs 49 mins       █████████████████████████   100.00 % 
+mirsazzathossain.me      5 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
