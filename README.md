@@ -100,30 +100,30 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 550 Contributions in the Year 2026
+> 🏆 555 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 35 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-🌆 Daytime                5237 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-🌃 Evening                3815 commits        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌙 Night                  5199 commits        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌆 Daytime                5239 commits        ████████░░░░░░░░░░░░░░░░░   33.62 % 
+🌃 Evening                3815 commits        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+🌙 Night                  5201 commits        ████████░░░░░░░░░░░░░░░░░   33.37 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   3129 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Tuesday                  2493 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Wednesday                2366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 1598 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Friday                   2935 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Tuesday                  2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                2368 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 1598 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Friday                   2935 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 Saturday                 1457 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 Sunday                   1602 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 ```
@@ -150,11 +150,11 @@ Linux                    0 secs              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            ███████████░░░░░░░░░░░░░░   43.59 % 
-Jupyter Notebook         14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   35 repos            ███████████░░░░░░░░░░░░░░   44.30 % 
+Jupyter Notebook         14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
