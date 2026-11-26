@@ -94,7 +94,7 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,21 +111,21 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-🌆 Daytime                5239 commits        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-🌃 Evening                3815 commits        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-🌙 Night                  5201 commits        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌞 Morning                1423 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌆 Daytime                5642 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌃 Evening                4088 commits        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌙 Night                  5569 commits        ████████░░░░░░░░░░░░░░░░░   33.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3129 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Tuesday                  2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Wednesday                2368 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 1598 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   2935 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Saturday                 1457 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Sunday                   1602 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Monday                   3365 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Tuesday                  2675 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                2538 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Thursday                 1714 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Friday                   3157 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Saturday                 1556 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   1717 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 
 
@@ -135,16 +135,20 @@ Sunday                   1602 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+Bash                     12 mins             ██████████████████░░░░░░░   71.12 % 
+Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+Claude Code              15 mins             ██████████████████████░░░   89.79 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
 🐱‍💻 Projects: 
-mirsazzathossain.me      0 secs              █████████████████████████   100.00 % 
+Final Dataset            16 mins             ████████████████████████░   97.82 % 
+mirsazzathossain.me      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
