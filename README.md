@@ -108,49 +108,6 @@ I am looking for **Ph.D. positions** in Computer Science starting Fall 2027 🤓
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1425 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-🌆 Daytime                5642 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
-🌃 Evening                4088 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-🌙 Night                  5569 commits        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3365 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Tuesday                  2675 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Wednesday                2538 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Thursday                 1714 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   3159 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Saturday                 1556 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Sunday                   1717 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Bash                     12 mins             ██████████████████░░░░░░░   71.12 % 
-Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-
-🔥 Editors: 
-Claude Code              15 mins             ██████████████████████░░░   89.79 % 
-VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-
-🐱‍💻 Projects: 
-Final Dataset            16 mins             ████████████████████████░   97.82 % 
-mirsazzathossain.me      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
